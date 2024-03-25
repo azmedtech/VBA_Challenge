@@ -30,8 +30,10 @@ These videos will introduce you to using these tools for class:
 
 - [Slack](https://2u-20.wistia.com/medias/aek9yxfpwh)
 
+- [GitHub/Gitlab](https://2u-20.wistia.com/medias/huk3lgcsi8)
+
 - [AskBCS learning assistants](https://2u-20.wistia.com/medias/q7vpwoh52m)
 
-- [GitHub/Gitlab](https://2u-20.wistia.com/medias/huk3lgcsi8)
+- [Xpert learning assistant](https://app.frame.io/presentations/a01490d1-a2c5-4bdd-90ed-fcac9f08cf7e)
 
 

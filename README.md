@@ -5,7 +5,9 @@ All course activity files and slides will be pushed to this repository.
 
 ## Installation
 ### Python dev environment
-Run these commands in git bash (for Windows) or the terminal (for Mac).  Make sure you navigate to the root folder where you have cloned this gitlab repository.
+First install Anaconda by following the instructions at this bootcampspot [link](https://bootcampspot.instructure.com/courses/5315/pages/3-getting-started?module_item_id=1238161), but stop after you complete step 3, "Updating the conda base environment."
+
+Instead of running step 4 to create the `dev` environment, run these commands in git bash (for Windows) or the terminal (for Mac).  Make sure you navigate to the root folder where you have cloned this gitlab repository.
 
 ```
 conda deactivate
